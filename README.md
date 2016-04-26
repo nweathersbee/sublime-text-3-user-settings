@@ -1,6 +1,6 @@
 # My Sublime Text 3 settings
 
-These are the settings I use.  There are no dependencies right now.  Note: this is a "fork" from my [Sublime Text **2** settings](https://github.com/kellyredding/sublime-text-2-user-settings).
+These are the settings I use.  There are no dependencies right now.  Note: this is a "fork" from my [Sublime Text **2** settings](https://github.com/nweathersbee/sublime-text-2-user-settings).
 
 ## Install
 
@@ -13,7 +13,7 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 Clone as your `User` packages:
 
 ```
-git clone https://github.com/kellyredding/sublime-text-3-user-settings.git User
+git clone https://github.com/nweathersbee/sublime-text-3-user-settings.git User
 ```
 
 ## Updating
